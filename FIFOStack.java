@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class FIFOStack extends Vector(){
 
 	public synchronized Object push(Object o) {
